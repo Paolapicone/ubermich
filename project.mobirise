@@ -10,7 +10,7 @@
         "secondaryColor": "#000000",
         "successColor": "#232323",
         "infoColor": "#ff7f9f",
-        "warningColor": "#232323",
+        "warningColor": "#e6c0c9",
         "dangerColor": "#232323",
         "mainFont": "Rubik",
         "display1Font": "Open Sans Condensed",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.5.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
